@@ -7,7 +7,11 @@ More: [www.plealog.com](www.plealog.com)
 
 # Documentation
 
-Follow [this link](http://www.plealog.com/s/index.php/documents) to read more about jGAF Tutorial use.
+Git clone this project on your system. Then import it within your favorite IDE; on my side, I use Eclipse.
+
+Then, have a look at the "src" directory: you'll see how to use the jGAF library.
+
+Follow [this link](http://www.plealog.com/s/index.php/documents) to read more about jGAF (e.g. Javadoc).
 
 # Java code compiler
 
