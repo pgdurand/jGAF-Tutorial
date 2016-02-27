@@ -1,5 +1,7 @@
 # About jGAF - Tutorial
 
+[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+
 This project illustrates the use of [jGAF](https://github.com/pgdurand/jGAF) to quickly setup Swing based application that is
 ready to be used on multiple OS.
 
