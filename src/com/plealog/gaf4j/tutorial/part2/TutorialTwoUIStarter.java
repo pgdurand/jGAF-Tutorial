@@ -84,5 +84,8 @@ public class TutorialTwoUIStarter {
       // application startup.
     }
 
+    @Override
+    public void frameDisplayed() {}
+
   }
 }
