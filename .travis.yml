@@ -1,7 +1,8 @@
 language: java
+os:
+  - linux
 jdk:
-  - oraclejdk8
-  - oraclejdk7
+  - oraclejdk9
 script:
   ant compile
  

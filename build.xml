@@ -42,7 +42,7 @@
 
 	<!-- Help -->
 	<target name="help">
-		<echo>This is the Ant's project file to manage genapp tutorial.</echo>
+		<echo>This is the Ant's project file to manage jGAF tutorial.</echo>
 		<echo />
 		<echo>Available targets are:</echo>
     <echo>   compile: compile source code</echo>

@@ -127,6 +127,10 @@ public class TutorialFourUIStarter {
         }
       }
     }
+
+    @Override
+    public void frameDisplayed() {
+    }
   }
   /*
    * Show how to work with generic action (see ui.properties for the definition of ActionFileOpen)*/
