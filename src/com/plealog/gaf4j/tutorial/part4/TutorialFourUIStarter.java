@@ -127,7 +127,6 @@ public class TutorialFourUIStarter {
         }
       }
     }
-
     @Override
     public void frameDisplayed() {
     }

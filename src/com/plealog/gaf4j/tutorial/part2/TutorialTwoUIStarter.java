@@ -86,9 +86,6 @@ public class TutorialTwoUIStarter {
 
     @Override
     public void frameDisplayed() {
-      // TODO Auto-generated method stub
-      
     }
-
   }
 }

@@ -136,7 +136,6 @@ public class TutorialThreeUIStarter {
         }
       }
     }
-
     @Override
     public void frameDisplayed() {
     }
