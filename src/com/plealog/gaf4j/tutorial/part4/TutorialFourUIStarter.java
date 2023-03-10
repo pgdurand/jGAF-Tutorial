@@ -1,4 +1,4 @@
-/*  Copyright 2003-2016 Patrick G. Durand
+/*  Copyright 2003-2023 Patrick G. Durand
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -52,7 +52,7 @@ public class TutorialFourUIStarter {
     //...before any attempt to load a resource
     EZApplicationBranding.setAppIcon(EZEnvironment.getImageIcon("appicon.png"));
 
-    //we load are ResourceBundle containing the main menu declarations
+    //we load our ResourceBundle containing the main menu declarations
     ResourceBundle rb = ResourceBundle.getBundle(TutorialFourUIStarter.class.getPackage().getName()+".menu"); 
     EZEnvironment.setUserDefinedActionsResourceBundle(rb);
 
